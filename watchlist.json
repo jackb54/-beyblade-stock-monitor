@@ -1,0 +1,48 @@
+{
+  "beys": [
+    {
+      "name": "Scale Shark 4-50UF",
+      "enabled": true,
+      "listings": [
+        {
+          "seller": "Walmart",
+          "url": "https://www.walmart.com/ip/20804713116",
+          "max_price": 15,
+          "fulfillment": "Shipping or pickup",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "Wand Wizard 5-70DB",
+      "enabled": true,
+      "listings": [
+        {
+          "seller": "Walmart",
+          "url": "https://www.walmart.com/ip/5347546408?selectedSellerId=0",
+          "max_price": 15,
+          "fulfillment": "Shipping or pickup",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "Glory Valkyrie LF",
+      "enabled": true,
+      "listings": [
+        {
+          "seller": "GoShoot Imports",
+          "url": "https://goshootimports.com/products/ux-20-glory-valkyrie-lf-starter",
+          "max_price": 49.99,
+          "fulfillment": "Shipping",
+          "enabled": true
+        }
+      ]
+    },
+    {
+      "name": "Aero Pegasus 3-70A",
+      "enabled": true,
+      "listings": []
+    }
+  ]
+}
